@@ -6,3 +6,8 @@ if country == ('台灣'):
 		print('你可以學開車 ')
 	else :
 		print('你還不能學開車喔')
+if country == ('美國'):
+	if age >= 16:
+		print('你可以學開車 ')
+	else :
+		print('你還不能學開車喔 ')
